@@ -13,6 +13,7 @@ To run this project locally you will need:
 4) create or if you already have a https://www.mongodb.com/atlas/database account.
 
 5) create a .env file and write the following:
+
    CLOUDINARY_CLOUD_NAME=
 
    CLOUDINARY_KEY=
