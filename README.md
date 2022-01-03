@@ -1,5 +1,5 @@
 # scotlandCamps
-Site link : https://desolate-stream-44808.herokuapp.com/
+Site link : https://desolate-stream-44808.herokuapp.com
 
 
 To run this project locally you will need:
