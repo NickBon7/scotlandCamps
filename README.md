@@ -14,9 +14,13 @@ To run this project locally you will need:
 
 5) create a .env file and write the following:
    CLOUDINARY_CLOUD_NAME=
+
    CLOUDINARY_KEY=
+
    CLOUDINARY_SECRET=
+
    MAPBOX_TOKEN=pk.eyJ1Ijoibmlja2JvbiIsImEiOiJja3h3N2s4c2QybXl3Mm5vZXZuc2E1cXhvIn0.KOj2R6jmTBctY3ytFIdt0g
+
    DB_URL=mongodb+srv://<username>:<password>@cluster0.xlzxw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
    
  
